@@ -1,2 +1,2 @@
 # Ecommerce
-web clone using language HTML &amp; CSS
+Amazon web clone using language HTML &amp; CSS
